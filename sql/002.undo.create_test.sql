@@ -1,0 +1,1 @@
+DROP DATABASE wiki_task_test;
